@@ -22,3 +22,16 @@
   340  05-09-2026 12:50:09 git status
   341  05-09-2026 12:50:22 git restore testing.py
   342  05-09-2026 12:50:39 git status
+
+  13:00:03 git status
+  353  05-09-2026 13:00:19 git push origin master
+  354  05-09-2026 13:53:08 cd ..
+  355  05-09-2026 13:53:55 mkdir git-demo-new
+  356  05-09-2026 13:54:00 ls
+  357  05-09-2026 13:54:22 cd git-demo-new
+  358  05-09-2026 13:54:25 ls
+  359  05-09-2026 13:55:52 git clone https://github.com/ashutoshchaubey476-rgb/github-for-devops-workshop.git
+  360  05-09-2026 13:56:01 ls
+  361  05-09-2026 13:56:52 cd github-for-devops-workshop
+  362  05-09-2026 13:56:54 ls
+  363  05-09-2026 14:02:23 history
