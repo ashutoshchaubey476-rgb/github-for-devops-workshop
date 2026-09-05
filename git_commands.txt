@@ -1,0 +1,24 @@
+12:43:34 cd github-for-devops-workshop
+  320  05-09-2026 12:43:48 python testing.py
+  321  05-09-2026 12:44:08 ls
+  322  05-09-2026 12:44:12 ls -l
+  323  05-09-2026 12:44:29 rm testing.py
+  324  05-09-2026 12:44:54 git init
+  325  05-09-2026 12:45:34 ls -a
+  326  05-09-2026 12:45:47 git status
+  327  05-09-2026 12:45:59 ls
+  328  05-09-2026 12:46:49 git status
+  329  05-09-2026 12:48:04 git add testing.py
+  330  05-09-2026 12:48:09 git status
+  331  05-09-2026 12:48:37 git rm --cached testing.py
+  332  05-09-2026 12:48:41 git status
+  333  05-09-2026 12:48:50 git add .
+  334  05-09-2026 12:48:55 git staus
+  335  05-09-2026 12:49:03 git status
+  336  05-09-2026 12:49:48 git commit -m "added testing files"
+  337  05-09-2026 12:49:54 git status
+  338  05-09-2026 12:50:01 rm testing.py
+  339  05-09-2026 12:50:06 ls
+  340  05-09-2026 12:50:09 git status
+  341  05-09-2026 12:50:22 git restore testing.py
+  342  05-09-2026 12:50:39 git status
