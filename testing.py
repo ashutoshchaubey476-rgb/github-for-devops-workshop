@@ -1,7 +1,8 @@
+"""Testing module."""
+
+
 def hello():
-    """
-    this is demo
-    """
+    """Return a greeting message."""
     return "hello,dosto"
 
 
